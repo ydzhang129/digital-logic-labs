@@ -1,0 +1,15 @@
+# 忽略 Vivado 编译产生的临时文件夹
+*.runs/
+*.cache/
+*.hw/
+*.ip_user_files/
+*.sim/
+*.ioplanning/
+.Xil/
+
+# 忽略日志文件
+*.log
+*.jou
+
+# 忽略备份文件
+*.bak
