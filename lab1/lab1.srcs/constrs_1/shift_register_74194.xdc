@@ -15,4 +15,5 @@ set_property PACKAGE_PIN U12 [get_ports d_sl]
 set_property PACKAGE_PIN H6 [get_ports d_sr]
 
 
-set_property PACKAGE_PIN M18 [get_ports clr]
+set_property PACKAGE_PIN N17 [get_ports clr]
+
