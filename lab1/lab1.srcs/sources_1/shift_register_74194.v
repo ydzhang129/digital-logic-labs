@@ -25,7 +25,7 @@ module shift_register_74194(
                 counter <= counter + 1;
             end
         end
-     end
+    end
     
     always @(posedge clk_1Hz or negedge clr)   begin
         if (clr)   begin
